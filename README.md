@@ -1,8 +1,8 @@
-* Give the correct provider creds into the module.tf
+* First of all create a folder named "creds" and past the .json file on it,Give the correct provider creds into the module.tf,{creds are the folder which contain the gcloud project iam service account .json file}
 
 * terraform init
   
-  # create a folder called modules and in the modules folder create all the resouces's,      instance etc.
+  # create a folder called modules and in the modules folder create all the resouces's,instance etc.
 
   #  all the files inside the modules folder give the extansion .tf
 
